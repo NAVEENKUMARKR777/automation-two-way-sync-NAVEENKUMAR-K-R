@@ -1,0 +1,28 @@
+# Python / venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VSCode / editor
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+*.env
+service-account.json
+*.db
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Uvicorn / logs
+*.log
+
+# Coverage / test cache
+.pytest_cache/
+.coverage
+
+
