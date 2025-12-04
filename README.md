@@ -254,9 +254,7 @@ The AI suggested tracking a `last_synced_status` field to optimize updates. I ch
 
 ## 📹 Demo Video
 
-*Coming soon — link will be added after recording*
-
-Replace with: `https://drive.google.com/your-video-link` (set sharing to "Anyone with the link")
+https://drive.google.com/file/d/1ratII1FnuVULrHK0OmsP0JyKaequz4-l/view?usp=sharing
 
 ---
 
@@ -277,10 +275,4 @@ Replace with: `https://drive.google.com/your-video-link` (set sharing to "Anyone
 └── README.md
 ```
 
-## 📄 License
 
-*Add your license information here*
-
-## 🤝 Contributing
-
-*Add contribution guidelines here*
