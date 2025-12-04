@@ -13,12 +13,8 @@ The sync layer handles real-time updates, maintains idempotency, and provides co
 
 ## 🏗️ Architecture
 
-```mermaid
-flowchart LR
-    GS[Google Sheets<br/>Lead Tracker] <--> |REST API| SYNC[Python Sync Service]
-    SYNC <--> |JSON API| WT[FastAPI<br/>Work Tracker]
-    WT --> DB[(SQLite)]
-```
+<img width="764" height="113" alt="Screenshot 2025-12-04 134304" src="https://github.com/user-attachments/assets/206f7b4e-03ba-477d-a3dd-86ab86163a03" />
+
 
 ### Components
 
